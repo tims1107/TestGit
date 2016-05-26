@@ -14,6 +14,8 @@ public class Main {
 	
 	public void run(){
 		System.out.println("This is a test");
+		
+		System.out.println("change 1");
 	}
 
 }
